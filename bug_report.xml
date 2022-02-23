@@ -1,1 +1,9 @@
-
+<xml version="1.0" encoding="utf-8"?>
+<bug>
+     <ID>1</ID>
+     <Title>When_you_click_on_the_'Register'_button_the_registration_form_does_not_open</Title>
+     <Steps>Open_web_and_click_button_'Register'</Steps>
+     <Factual_result>When_button_click_nothing_is_happening</Factual_result>
+     <Expected_result>The_registration_window_opens_when_you_click_on_the_'Register'_button_the_registration_form_opens</Expected_result>
+     <severity>Major</severity>
+</bug>
