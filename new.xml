@@ -1,0 +1,9 @@
+<xml version="1.0" encoding="utf-8"?>
+<root>
+     <name>Vika</name>
+     <surname>Piskareva</surname>
+     <patronymic>Aleksandrovna</patronymic>
+     <age>26</age>
+     <animals>3</animals>
+     <salary>2000</salary>
+</root>
